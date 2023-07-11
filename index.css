@@ -9,31 +9,32 @@
 .u-section-1 .u-image-1 {
   width: 514px;
   height: 514px;
-  margin: 16px 20px 0 auto;
+  margin: 23px 56px 0 auto;
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Alata;
   font-size: 4.5rem;
+  font-family: "Alegreya Sans";
   font-weight: 700;
-  margin: -345px auto 0 0;
+  margin: -352px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1.25rem;
-  font-family: Alata;
-  margin: 16px 520px 0 0;
+  font-family: "Alegreya Sans";
+  font-weight: 700;
+  margin: 10px 520px 0 0;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
-  margin: 8px 570px 60px 0;
+  margin: 14px 570px 60px 0;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   font-size: 1.875rem;
-  font-family: Alata;
+  font-family: "Alegreya Sans";
   padding: 0;
 }
 
@@ -42,25 +43,11 @@
     min-height: 532px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-top: 18px;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: -336px;
-  }
-
   .u-section-1 .u-text-2 {
-    width: auto;
-    margin-top: 13px;
-    margin-right: 501px;
+    margin-right: 320px;
   }
 
   .u-section-1 .u-text-3 {
-    width: auto;
-    margin-top: 1px;
     margin-right: 370px;
   }
 }
@@ -70,24 +57,12 @@
     min-height: 509px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 378px;
-    height: 378px;
-    margin-top: 26px;
-    margin-right: -29px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -304px;
-  }
-
   .u-section-1 .u-text-2 {
-    margin-top: 33px;
-    margin-right: 385px;
+    margin-right: 100px;
   }
 
   .u-section-1 .u-text-3 {
-    margin: 45px -29px 12px 179px;
+    margin-right: 150px;
   }
 }
 
@@ -97,53 +72,28 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 299px;
-    height: 299px;
-    margin-top: 331px;
-    margin-right: auto;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -630px;
-    margin-right: -31px;
-    margin-left: 34px;
+    margin-right: 26px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 21px;
-    margin-right: -21px;
-    margin-left: 21px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
-    margin: 34px -84px 60px 84px;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
-    width: 281px;
-    height: 281px;
-    margin-top: 325px;
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-top: -622px;
-    margin-right: -72px;
-    margin-left: 72px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-top: 23px;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-top: 23px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: -178px;
   }
 } .u-section-2 {
   background-image: none;
@@ -168,8 +118,9 @@
 
 .u-section-2 .u-text-1 {
   background-image: none;
-  font-family: Alata;
+  font-family: "Alegreya Sans";
   font-weight: 700;
+  font-size: 3rem;
   margin: 45px auto 0;
 }
 
@@ -194,14 +145,15 @@
 }
 
 .u-section-2 .u-text-2 {
-  font-family: Alata;
+  font-family: "Alegreya Sans";
   font-weight: 700;
-  margin: 14px 200px 0 auto;
+  font-size: 3rem;
+  margin: 13px auto 0 136px;
 }
 
 .u-section-2 .u-custom-html-2 {
   min-height: 39px;
-  margin: 36px 57px 0 175px;
+  margin: 37px 57px 0 175px;
 }
 
 .u-section-2 .u-icon-2 {
@@ -242,10 +194,6 @@
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 292px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 165px;
   }
 
   .u-section-2 .u-custom-html-2 {
@@ -293,7 +241,6 @@
   .u-section-2 .u-text-2 {
     width: auto;
     margin-top: 127px;
-    margin-right: 126px;
     margin-left: 90px;
   }
 
@@ -346,8 +293,7 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 137px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 104px;
   }
 
   .u-section-2 .u-custom-html-2 {
@@ -379,6 +325,7 @@
     margin-top: 127px;
     margin-left: 73px;
     margin-right: 57px;
+    font-size: 1.5rem;
   }
 
   .u-section-2 .u-custom-html-1 {
@@ -396,6 +343,7 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 120px;
+    font-size: 1.5rem;
   }
 
   .u-section-2 .u-custom-html-2 {
@@ -693,4 +641,9 @@
   .u-section-3 .u-text-6 {
     margin-top: 18px;
   }
+}@font-face {
+  font-family: 'FontsFree-Net-Dream-Avenue';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FontsFree-Net-Dream-Avenue.ttf);
 }
